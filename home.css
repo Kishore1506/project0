@@ -1,0 +1,58 @@
+#heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color:rgb(90, 207, 228);
+   
+    text-align: center;
+    height: 50px;
+
+}
+.hImage{
+    padding-left: 20%;
+    padding-right: 10%;
+}
+body{
+    background-color: aquamarine;
+}
+.americano{
+    height:350px;
+    width:75%;
+    margin-left:350px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.Cappuccino{
+    
+    height:350px;
+    width:75%;
+    margin-left:350px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.Espresso{
+    
+    height:350px;
+    width:75%;
+    margin-left:350px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.FlatWhite{
+    height:350px;
+    width:75%;
+    margin-left:350px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}

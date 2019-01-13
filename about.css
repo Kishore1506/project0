@@ -1,0 +1,20 @@
+.name{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 43px;
+    text-align: center;
+}
+.founder{
+    padding-left: 38%;
+    padding-right: 35%;
+}
+body{
+    background-color: aquamarine;
+}
+table{
+    padding-left: 34%;
+    
+}
+th{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
